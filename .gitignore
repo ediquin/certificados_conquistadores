@@ -1,0 +1,13 @@
+# --- Datos sensibles y personales: NO subir a GitHub ---
+firmas/
+*.xlsx
+*.xls
+~$*
+certificados_generados/
+pruebas/
+uploads/
+
+# Temporales
+*.tmp
+__pycache__/
+*.pyc

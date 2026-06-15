@@ -1,0 +1,47 @@
+{
+  "certificados": {
+    "CONQ-2026-RGW93L": {
+      "nombre": "Jazzi Nordin Quispe Blanco",
+      "cargo": "Capellán",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-QARR9R": {
+      "nombre": "Adrian Ante Quisbert",
+      "cargo": "Consejero",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-JHQE9P": {
+      "nombre": "Nahomi Nazareth Villca Choque",
+      "cargo": "Consejero",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-B93VRT": {
+      "nombre": "Judith Sandy Choque Pérez",
+      "cargo": "Consejero",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-P44FGA": {
+      "nombre": "Marcelo Márquez Huchani",
+      "cargo": "Consejero",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-DECR45": {
+      "nombre": "Vanessa Aleyda Luque Luque",
+      "cargo": "Consejero",
+      "region": "Región 5",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    }
+  },
+  "actualizado": "2026-06-15"
+}

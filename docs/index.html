@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Validación de Certificados</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 40px 32px;
+    max-width: 440px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(0,0,0,.4);
+  }
+  .icon { font-size: 64px; line-height: 1; margin-bottom: 16px; }
+  h1 { font-size: 22px; margin-bottom: 8px; color: #1a1a2e; }
+  .estado {
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 12px 0 20px;
+  }
+  .valido   { background: #d4f7dc; color: #14702e; }
+  .invalido { background: #fde2e2; color: #a01818; }
+  .detalle {
+    text-align: left;
+    background: #f6f7fb;
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-top: 8px;
+  }
+  .detalle p { margin: 6px 0; font-size: 15px; color: #333; }
+  .detalle b { color: #1a1a2e; }
+  .codigo { font-family: monospace; font-size: 13px; color: #888; margin-top: 20px; word-break: break-all; }
+  .buscar input {
+    width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 8px;
+    font-size: 15px; margin: 14px 0 10px; text-transform: uppercase;
+  }
+  .buscar button {
+    width: 100%; padding: 12px; border: 0; border-radius: 8px;
+    background: #1a1a2e; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer;
+  }
+  .buscar button:hover { background: #16213e; }
+  .nota { font-size: 12px; color: #999; margin-top: 18px; }
+</style>
+</head>
+<body>
+<div class="card" id="card">
+  <div class="icon">⏳</div>
+  <h1>Verificando certificado…</h1>
+</div>
+
+<script>
+const card = document.getElementById('card');
+const params = new URLSearchParams(location.search);
+const id = (params.get('id') || '').trim().toUpperCase();
+
+function formBuscar(msg) {
+  card.innerHTML = `
+    <div class="icon">🔎</div>
+    <h1>Validación de Certificados</h1>
+    ${msg ? `<span class="estado invalido">${msg}</span>` : ''}
+    <div class="buscar">
+      <input id="inp" placeholder="Ej: CONQ-2026-A1B2C3" maxlength="20">
+      <button onclick="ir()">Verificar</button>
+    </div>
+    <p class="nota">Escanea el código QR del certificado o ingresa su código.</p>`;
+}
+function ir() {
+  const v = document.getElementById('inp').value.trim();
+  if (v) location.search = '?id=' + encodeURIComponent(v.toUpperCase());
+}
+
+function fechaLarga(iso) {
+  try {
+    return new Date(iso + 'T12:00:00').toLocaleDateString('es-ES',
+      { year: 'numeric', month: 'long', day: 'numeric' });
+  } catch { return iso; }
+}
+
+async function verificar() {
+  if (!id) { formBuscar(''); return; }
+  let data;
+  try {
+    const r = await fetch('registry.json?t=' + Date.now());
+    data = await r.json();
+  } catch {
+    card.innerHTML = `<div class="icon">⚠️</div><h1>Error de conexión</h1>
+      <p class="nota">No se pudo consultar el registro. Intenta de nuevo.</p>`;
+    return;
+  }
+  const c = (data.certificados || {})[id];
+  if (c && c.valido) {
+    card.innerHTML = `
+      <div class="icon">✅</div>
+      <h1>Certificado Auténtico</h1>
+      <span class="estado valido">VÁLIDO</span>
+      <div class="detalle">
+        <p><b>Nombre:</b> ${c.nombre}</p>
+        ${c.cargo ? `<p><b>Rol:</b> ${c.cargo}</p>` : ''}
+        <p><b>Fecha de emisión:</b> ${fechaLarga(c.fecha_emision)}</p>
+      </div>
+      <p class="codigo">${id}</p>`;
+  } else if (c && !c.valido) {
+    card.innerHTML = `
+      <div class="icon">🚫</div>
+      <h1>Certificado Revocado</h1>
+      <span class="estado invalido">NO VÁLIDO</span>
+      <p class="nota">Este certificado fue anulado por la organización.</p>
+      <p class="codigo">${id}</p>`;
+  } else {
+    formBuscar('CÓDIGO NO ENCONTRADO');
+  }
+}
+verificar();
+</script>
+</body>
+</html>
