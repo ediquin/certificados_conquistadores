@@ -41,6 +41,734 @@
       "region": "Región 5",
       "fecha_emision": "2026-06-15",
       "valido": true
+    },
+    "CONQ-2026-4CQPXW": {
+      "nombre": "Abigail Tapia Flores",
+      "cargo": "Consejera",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-7G9899": {
+      "nombre": "Adrian Díaz Mamani",
+      "cargo": "",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-VVUZTK": {
+      "nombre": "Adrian Romario Zarate Cuentas",
+      "cargo": "Codirector",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-DVWFXE": {
+      "nombre": "Anahi Quiuchaca",
+      "cargo": "Capitán",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-WYUTZ2": {
+      "nombre": "David Sanchez",
+      "cargo": "Capellán",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FSH32M": {
+      "nombre": "Dayana Condori Tapia",
+      "cargo": "Directora",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-44WCSA": {
+      "nombre": "Ester Estrella Zarate Cuentas",
+      "cargo": "Secretaria de Unidad",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-9LZ79S": {
+      "nombre": "Galilea Chambi Tapia",
+      "cargo": "Capitana",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-D6BVLG": {
+      "nombre": "Joel Paucara illanes",
+      "cargo": "",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-F6ZN5W": {
+      "nombre": "Lilian Apaza Apaza",
+      "cargo": "Capitán",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-P9U52E": {
+      "nombre": "Melany Garcia Fernandez",
+      "cargo": "Secretaria de Unidad",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-UBXDFE": {
+      "nombre": "Misael Marca Chipana",
+      "cargo": "",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-PRDCUJ": {
+      "nombre": "Moises Ronaldo Zarate Cuentas",
+      "cargo": "Capitán",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FQ8RE7": {
+      "nombre": "Omar Isidro Bautista",
+      "cargo": "",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-9CMNBV": {
+      "nombre": "Rafaela Gutierrez",
+      "cargo": "Capitana",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-B2FA93": {
+      "nombre": "Richard Condori Poma",
+      "cargo": "Distrital",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-UTHWQM": {
+      "nombre": "Rosmery Fernandez",
+      "cargo": "Directora",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-S7ABV3": {
+      "nombre": "Sebastian Tarqui Sirpa",
+      "cargo": "Capitán",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-XMGTP3": {
+      "nombre": "VIctoria Sanchez",
+      "cargo": "Capitana",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-8Z992H": {
+      "nombre": "Valeria Zegarra",
+      "cargo": "Consejera",
+      "region": "Región 1",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-ZSGRFG": {
+      "nombre": "Abraham condori García",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-WBS7H8": {
+      "nombre": "Alejandra Mendoza apaza",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-QB7TMF": {
+      "nombre": "Benjamin Ignacio Cáceres larrea",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-QV7ZT4": {
+      "nombre": "Brayan lian Vargas cayo",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-YRM9CM": {
+      "nombre": "Caleb arrojas Vargas",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-V6U7XR": {
+      "nombre": "Cinthia Mamani de Contreras",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-VM5JHL": {
+      "nombre": "Cristian chavez",
+      "cargo": "Capellán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-LK95XX": {
+      "nombre": "Daniel Navarro nay",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-M3TVSN": {
+      "nombre": "Danna esmeralda cuba",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-YZKCPR": {
+      "nombre": "Elvio dennys Contreras Gutiérrez",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-M79SPA": {
+      "nombre": "Eva elizabeth ramos churqui",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-RGLHPH": {
+      "nombre": "Harol Vargas yumacale",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-T64PNL": {
+      "nombre": "Janyasser Yamile mercier ilimuri",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-RWD2PK": {
+      "nombre": "José Luis callisaya apana",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-TPH7GT": {
+      "nombre": "José Luis forra zenteno",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FPNP6A": {
+      "nombre": "Juan tapia franco",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-B2XXHR": {
+      "nombre": "Juana dolores ibaguari marupa",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-6CJDVV": {
+      "nombre": "Laura Mamani arnez",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-Y3Y9LS": {
+      "nombre": "Lizeth chimay cordero",
+      "cargo": "Regional",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-EHSY56": {
+      "nombre": "Luciana ros condori alabe",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FVLWN3": {
+      "nombre": "Mabel Alejandra llanos cespedes",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FAZ3F7": {
+      "nombre": "Raquel Huayta choque",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-95FM5E": {
+      "nombre": "Rubí prieto lopez",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-BULD76": {
+      "nombre": "Simón apaza pongo",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-KAUSAT": {
+      "nombre": "Victor inca payllo",
+      "cargo": "Capellán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-TEGSN4": {
+      "nombre": "Viviana mercado vargas",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-H369TC": {
+      "nombre": "Yola emeli Villalobos castillo",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-AMCVEF": {
+      "nombre": "alba Mikaela vaca saravia",
+      "cargo": "Distrital",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-6CDUUW": {
+      "nombre": "angel Ortiz García",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NFECBB": {
+      "nombre": "cesia celeste calle ramos",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-C67N3B": {
+      "nombre": "emiliana Maldonado mamani de tapia",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-PYV58Y": {
+      "nombre": "emily tapia Maldonado",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-LJS8JH": {
+      "nombre": "emmanuel calle ramos",
+      "cargo": "Capitán",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-XZJBJA": {
+      "nombre": "esmeralda belen navia mamani",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NRUU5H": {
+      "nombre": "génesis llave cárdenas",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-CQELVK": {
+      "nombre": "hally Judith Vargas cayo",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-EFRV3L": {
+      "nombre": "livia Mercedes coaquira navia",
+      "cargo": "Capitana",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-Q6KR2G": {
+      "nombre": "luis Daniel Cardenas yave",
+      "cargo": "Consejera",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-8EYVZ3": {
+      "nombre": "nelvin soto apaza",
+      "cargo": "Consejero",
+      "region": "Región 10",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-M98J2C": {
+      "nombre": "Alejandro López Condori",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-3ZF8EQ": {
+      "nombre": "Alisson Rivero Ababoco",
+      "cargo": "Secretaria",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-BJPDGC": {
+      "nombre": "Amy ley Fernández Jou",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-WYE56T": {
+      "nombre": "Carolaysh Edith Patty Garzón",
+      "cargo": "Consejera",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-ENPNZ7": {
+      "nombre": "Cristina Pamela Pocoata Poma",
+      "cargo": "Consejera",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-7R8C8U": {
+      "nombre": "Daniela Arizaga Alvarez",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-ECXH7Q": {
+      "nombre": "Eitan Castro Mejía",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-KLX8DL": {
+      "nombre": "Elvis Martínez Ramos",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-SPKMZC": {
+      "nombre": "Fernando David Toledo Santos",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-LC7GJY": {
+      "nombre": "Gabriela Ramos Cerro grande",
+      "cargo": "Instructora",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-82TM8H": {
+      "nombre": "Geremy Huanca León",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-W6JHS6": {
+      "nombre": "Glenna J. Justiniano Guerra",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-N2K4XP": {
+      "nombre": "Hamilton Enock Velásquez Anti",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-7JY99F": {
+      "nombre": "Isaac Albaro Canqui Flores",
+      "cargo": "Consejero",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-95P6MS": {
+      "nombre": "Isabela Becerra Saenz",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NYG9KC": {
+      "nombre": "Jhandy Lu Fernández Jou",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-AZN7AJ": {
+      "nombre": "Jhonatan Alejandro Ventura Mana",
+      "cargo": "Instructor",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-BT6XT8": {
+      "nombre": "Joel E Callizaya Quispe",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-CP4RJ6": {
+      "nombre": "Josué David Velásquez Anti",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NRTCQT": {
+      "nombre": "Josué Guaraya Sardinas",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-QDSB3Z": {
+      "nombre": "Karen Vallejos Mamani",
+      "cargo": "Instructor",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-C9EHXK": {
+      "nombre": "Limbet Mamani Mamani",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-A4NPS2": {
+      "nombre": "Luis Alberto Vaca Fernández",
+      "cargo": "Consejero",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NBCCJ2": {
+      "nombre": "Luis Guarachi Limachi",
+      "cargo": "Instructor",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-W4B5N6": {
+      "nombre": "Maritza Mollo Mosquera",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-EGGT4H": {
+      "nombre": "Melani Cori Cussi",
+      "cargo": "Instructora",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-C7DKGE": {
+      "nombre": "Misael Mendoza Mejia",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-7NDPNE": {
+      "nombre": "Paula Micaela Chavez Enriquez",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-2XJKEY": {
+      "nombre": "Paulo Jesús Chávez Bismarck",
+      "cargo": "Consejero",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-NDK8ZB": {
+      "nombre": "Rafaela Toledo Santos",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-4BS9CL": {
+      "nombre": "Romel Tola Mamani",
+      "cargo": "Capellán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-22JLEU": {
+      "nombre": "Samuel Flores Calatayud",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-ZPFLHR": {
+      "nombre": "Samuel Ribera Abalos",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-KXGCR5": {
+      "nombre": "Sandra Maná",
+      "cargo": "Consejera",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-7MXQVK": {
+      "nombre": "Santiago Flores Calatayud",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-3QBMGC": {
+      "nombre": "Shabetai Darma Ramos Aro",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-4XL53F": {
+      "nombre": "Shirley Guerra Nay",
+      "cargo": "Consejera",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-97M3AN": {
+      "nombre": "Sussy Canqui Flores",
+      "cargo": "Instructor",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-LRQMWM": {
+      "nombre": "Susy Zarely Becerra Saenz",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-L7QVEU": {
+      "nombre": "Suyay Cruz Mana",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-A2SGJS": {
+      "nombre": "Valeria Kristal Saavedra",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-VKWXSF": {
+      "nombre": "Verónica Arcani Ramírez",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-Y3AWVE": {
+      "nombre": "Yamile Quispe Pocoata",
+      "cargo": "Capitana",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-BQ2484": {
+      "nombre": "Henry Mamani Tola",
+      "cargo": "Capitán",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
+    },
+    "CONQ-2026-FKWNNC": {
+      "nombre": "Joel Néstor Mamani Tola",
+      "cargo": "Consejero",
+      "region": "Región 13",
+      "fecha_emision": "2026-06-15",
+      "valido": true
     }
   },
   "actualizado": "2026-06-15"
