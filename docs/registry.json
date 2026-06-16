@@ -769,7 +769,1575 @@
       "region": "Región 13",
       "fecha_emision": "2026-06-15",
       "valido": true
+    },
+    "CONQ-2026-ANZECN": {
+      "nombre": "Kimberly Gissel Cama Ancari",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2PLGQJ": {
+      "nombre": "Damaris Avirari Medina",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-VNB838": {
+      "nombre": "Salem Fabiana Díaz Ticona",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-KN8642": {
+      "nombre": "Elías Garcilazo Quispe",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AZ3BRS": {
+      "nombre": "Nidia Angélica Mamani Mamani",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-TJZDXL": {
+      "nombre": "Christian Valle Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AJGBT6": {
+      "nombre": "Abigail Priscila Choque Tancara",
+      "cargo": "Conquistador",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9G5DCT": {
+      "nombre": "Reyna Esther Macedo Calle",
+      "cargo": "Conquistador",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3MMMSR": {
+      "nombre": "Elmer Clares Callisaya",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AHFQUX": {
+      "nombre": "Rosselyn Mamáni Quispe",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-JSEDDE": {
+      "nombre": "Nathali Duran",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-F4YHCV": {
+      "nombre": "Nathali Quisber",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UQ8VPD": {
+      "nombre": "Alison Choque",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-W6BSXB": {
+      "nombre": "Ruth Maylin Alcon Guarachi",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-5XUVFT": {
+      "nombre": "Wilmer López",
+      "cargo": "",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-M7EJUX": {
+      "nombre": "Sidney Montevilla Cori",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-WQPVL5": {
+      "nombre": "Heydi Montevilla Cori",
+      "cargo": "Líder",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-KXPP5R": {
+      "nombre": "Esnayder Mayta Choque",
+      "cargo": "Capitán",
+      "region": "Región 9",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-FGNZQX": {
+      "nombre": "Ximena Rodriguez",
+      "cargo": "Capellán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-QDAKUA": {
+      "nombre": "Yudith Calle Rodriguez",
+      "cargo": "Capellán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LMVX6C": {
+      "nombre": "Jeremy Torrez Choque",
+      "cargo": "Capellán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-A2LP7X": {
+      "nombre": "Jose Hilaquita Gutierrez",
+      "cargo": "Capellán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-P4TF55": {
+      "nombre": "Rebeca Cujpi Espinal",
+      "cargo": "Capellán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BV52HY": {
+      "nombre": "Maria Jesus Espinoza",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-R3MUQB": {
+      "nombre": "Benjamin Matius Rueda Ondori",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GAK7YQ": {
+      "nombre": "Noelia Verastegui Cordero",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-WAT4DS": {
+      "nombre": "Geraldine Lima Saavedra",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-X4MS4A": {
+      "nombre": "Dania Sonia Cuti Patty",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YXM2P9": {
+      "nombre": "Kritzen Madison Callizaya",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-DHS3BS": {
+      "nombre": "Aurora Pereira Huanca",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HLYA82": {
+      "nombre": "Julian Ibañez",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PMMSD2": {
+      "nombre": "Gustavo Mamani Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-M7ZUCD": {
+      "nombre": "Juan David Velarde Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-VTHHA4": {
+      "nombre": "Cristina Llanos Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-MYEDNB": {
+      "nombre": "Jheny Quispe Huanca",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AJKS9V": {
+      "nombre": "Jhosselyn Alvarez Guarachi",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-TYGCR4": {
+      "nombre": "Sarinda Ponce Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-WS3DHE": {
+      "nombre": "Angela Callisaya Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-CUSG6F": {
+      "nombre": "Gerson Torrez Torrez",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7YT7GC": {
+      "nombre": "Kaira Torrez Choque",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-K58FAZ": {
+      "nombre": "Israel Enrique",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6TYFCZ": {
+      "nombre": "Camila Alejandra Alvarez",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SXQF3H": {
+      "nombre": "Kimberly Flores Tuco",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SMZZQF": {
+      "nombre": "Raissa Camila Mamani",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-EC9FQC": {
+      "nombre": "Naomi Cussi Campana",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BBRRMH": {
+      "nombre": "Eduard Rodriguez Aguilera",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2RW92W": {
+      "nombre": "Wara Rosas Calle",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-MDDVMT": {
+      "nombre": "Wanda Andrea Quisbert",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HHS5NV": {
+      "nombre": "Oscar Flores Layme",
+      "cargo": "Consejero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7S6PQ5": {
+      "nombre": "Kiara Fernandez Gisbert",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-QFNRJE": {
+      "nombre": "Leonidas Carvajal Flores",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6FE7NW": {
+      "nombre": "Sofia Veizaga Souza",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YN48SY": {
+      "nombre": "Santiago Apaza Coche",
+      "cargo": "Secretario",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-M97Y48": {
+      "nombre": "Ambar Patzi Machicado",
+      "cargo": "Secretario",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-Q3NVRZ": {
+      "nombre": "Camila Gonzales Lopez",
+      "cargo": "Secretario",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SBP4JC": {
+      "nombre": "Joel Lucuy Arellano",
+      "cargo": "Secretario",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-RGDG3Q": {
+      "nombre": "Danica Ramos Gutierrez",
+      "cargo": "Secretario",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-232KWV": {
+      "nombre": "Andrea Monasterios",
+      "cargo": "Tesorero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UPKSTQ": {
+      "nombre": "Nayeli Quispe",
+      "cargo": "Tesorero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SGLWHG": {
+      "nombre": "Ada Monasterios",
+      "cargo": "Tesorero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-E6UNZD": {
+      "nombre": "Itzel Luciana Gomez Tancara",
+      "cargo": "Camillero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3V84A5": {
+      "nombre": "Vasti Patzi Machicado",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BPFW8U": {
+      "nombre": "Josue Alcazar",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2FY4LN": {
+      "nombre": "Valeria Velarde Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HDMNHX": {
+      "nombre": "Abigail Patty Cazas",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PPCG7J": {
+      "nombre": "Isaac Santiago Velarde",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PLNQGK": {
+      "nombre": "Dylan Choquevillca Quispe",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YPPN7S": {
+      "nombre": "Naomi Quisucala Sillerico",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-JVXVPB": {
+      "nombre": "Eusin Poma",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-NUUJ55": {
+      "nombre": "Vannesa Fernandez Llanos",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-D87U2G": {
+      "nombre": "Andrea Chirinos Llanos",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LL5HVD": {
+      "nombre": "Matias Santiago Apaza Quispe",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-JVS7F5": {
+      "nombre": "Abigail Nieves Avila",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LNEFFU": {
+      "nombre": "Micaela Pereira Huanca",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9TTNPX": {
+      "nombre": "Sebastian Mateo",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LHCG44": {
+      "nombre": "Sebastian Bezaleel Flores Quino",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-QQQVKJ": {
+      "nombre": "Abigail Anti Gutierrez",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-DFXQVM": {
+      "nombre": "Jose Franco",
+      "cargo": "Tesorero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2VN6RZ": {
+      "nombre": "Allent Jhon Mendoza",
+      "cargo": "Tesorero",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GHDVAF": {
+      "nombre": "Franco Ignacio Harriague Jemio",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GKPL6P": {
+      "nombre": "Katlin Albarnoz Condori",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BQRY89": {
+      "nombre": "Mateo Alanoca Chapeton",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-4QPAPD": {
+      "nombre": "Emily Choque Alvarez",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8JBH3W": {
+      "nombre": "Andre Vino Gomez",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-Z7HRNC": {
+      "nombre": "Leire Rodriguez Aguilera",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-4J97NF": {
+      "nombre": "Valentina Choque Alvarez",
+      "cargo": "Conquistador",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2JRJTQ": {
+      "nombre": "Iker Eduardo Rosas Calle",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-WZWX7U": {
+      "nombre": "Roxely Kira Fernandez",
+      "cargo": "Capitán",
+      "region": "Región 2",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9EGX84": {
+      "nombre": "Alexis Reynaldo Sirpa Choque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-CVQF6C": {
+      "nombre": "Jonas Colque Apaza",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PT48G4": {
+      "nombre": "Raishel Melissa Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZL8UVA": {
+      "nombre": "Ashley Raquel Jimenez Laura",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PSPTBD": {
+      "nombre": "Darlyn Quispe Paco",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-TGQETJ": {
+      "nombre": "Jose Andres Platero Salazar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-L8DRZT": {
+      "nombre": "Alan Abel Chirinos Lopez",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-XT3YGP": {
+      "nombre": "Layla Nayeli Cavero Antelo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-J4VCEW": {
+      "nombre": "Guadalupe Pinto Asister",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3JVSWZ": {
+      "nombre": "Melisa Daniela Ticona Tola",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-FGEYHY": {
+      "nombre": "Chambi Tapia Gabriel Neytan",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8K3VZU": {
+      "nombre": "Jose Roberto Sirpa Cchoque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UADBV9": {
+      "nombre": "Maya Luz Quispe Guerra",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9JZSNB": {
+      "nombre": "Gabriel Neytan Chambi Tapia",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-Z5FDEB": {
+      "nombre": "Estrella Marina Huanca Cori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GRHQHD": {
+      "nombre": "Edson Julio Larico Chura",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YYXRJ4": {
+      "nombre": "Lizet Daniela Mullisaca Quelca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-4NJ3SE": {
+      "nombre": "Jhoana Naomi Patty Callisaya",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZRYCNW": {
+      "nombre": "Maily Mashiel Huayhua Larico",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AJS7M2": {
+      "nombre": "Rodrigo Ibañez Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GRVNEN": {
+      "nombre": "Benjamin Loza Salazar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-QWSEG4": {
+      "nombre": "Abigail Perez Colque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-E98CZY": {
+      "nombre": "Yocelin Perez Flores",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8DBQWN": {
+      "nombre": "Guadalupe Quispe Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-NQKUAB": {
+      "nombre": "Grover Plata Asistiri",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GV3UE8": {
+      "nombre": "Juan Carlos Martela Fiqueredo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BC763G": {
+      "nombre": "Cristhian Valda Cosme",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SHAGKZ": {
+      "nombre": "Keytel Apaza Torrico",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ANSVLZ": {
+      "nombre": "Adriana Daniela Nina Lecoña",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6YTBYE": {
+      "nombre": "Nelson Salle Ali",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-4LDS8T": {
+      "nombre": "Rene Salle Ali",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GBLWTS": {
+      "nombre": "Jhon Hendrick Arias Apaza",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UQ4W35": {
+      "nombre": "Yordan Ramiro Sanchez Osco",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9EH3Q2": {
+      "nombre": "Sara Yujra Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LU8QPZ": {
+      "nombre": "Jhessica Paola Huarachi Huaranca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-99K3M2": {
+      "nombre": "Madelein Lesly Huarachi Huaranca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-F3E593": {
+      "nombre": "Brian Dan Limachi Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ACZLER": {
+      "nombre": "Sara Tabita Chura Achocalla",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-A89GWJ": {
+      "nombre": "Alex Layme Intimayta",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PLDBGE": {
+      "nombre": "Evelin Maribel Mamani Chaina",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YAETWX": {
+      "nombre": "Luis Alfredo Aranda Quispe",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-72P4NL": {
+      "nombre": "Eddy William Callata Kjara",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HXDW4C": {
+      "nombre": "Lisbet Elena Quispe Aruquipa",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8HF8AL": {
+      "nombre": "Benjamin Apaza",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZQFBD7": {
+      "nombre": "Mayte Belen Mamani Tellez",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-FYA2ND": {
+      "nombre": "Reyna Esther Quispe Nina",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HUKDJZ": {
+      "nombre": "Jose Miguel Choque Surco",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-RDH398": {
+      "nombre": "Brisa Jesusa Fernandez Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8J3CTW": {
+      "nombre": "Joel Villca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-4ZQ2AH": {
+      "nombre": "Adan Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BYCFEW": {
+      "nombre": "Claudia Alejo Frauz",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GMVXX3": {
+      "nombre": "Neley Brisney Quispe Colque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-CXK2H4": {
+      "nombre": "Daniel Avircata Chura",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-5VCU8V": {
+      "nombre": "Franklin Mamani Mancilla",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-FCEC7A": {
+      "nombre": "Jesus Aliaga",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8XG7SV": {
+      "nombre": "Jhon Mullisaca Quelca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-67246H": {
+      "nombre": "Ronaldo Paco Callisaya",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AQZRLK": {
+      "nombre": "Laura Gabriela Cornejo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LC25FP": {
+      "nombre": "Andres Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PAFW6S": {
+      "nombre": "Claudia Alejo Frauz",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-784YJJ": {
+      "nombre": "Franz Mullisaca Quelca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-36LWAY": {
+      "nombre": "Leonel Quispe",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-DGRWVZ": {
+      "nombre": "Jhon Villca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-L26MVN": {
+      "nombre": "Ian Machaca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-XZTK9X": {
+      "nombre": "Luz Gutiérrez",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PYB42W": {
+      "nombre": "David Quispe",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-N2NPKB": {
+      "nombre": "Alisson Eliana Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZSU2A6": {
+      "nombre": "Betania Alison Horacio",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-TWJALK": {
+      "nombre": "Sheyla Ramirez Orihuela",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6B2772": {
+      "nombre": "Luz Mayte Quispe",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2AQQBF": {
+      "nombre": "Madelen Guachalla Calsina",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UR6VCN": {
+      "nombre": "Dan Neftali Apaza Tapia",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-5M9CCM": {
+      "nombre": "Angel Vargas",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HHXEZQ": {
+      "nombre": "Mishel",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GJ2AGE": {
+      "nombre": "Misael",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3ZLLBF": {
+      "nombre": "Mayde",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7BD9WE": {
+      "nombre": "Mary Luz",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2FK4NB": {
+      "nombre": "Leidy",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-GDJFYU": {
+      "nombre": "Neymar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3TAYSS": {
+      "nombre": "Rouus",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-5NBXQK": {
+      "nombre": "Nicol",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-FKKSZ7": {
+      "nombre": "Raquel",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-PJKST5": {
+      "nombre": "Ruth",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YALB6X": {
+      "nombre": "Cristian Alejo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-U3EQVX": {
+      "nombre": "Kevin Uriel Huanca Larico",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-UVFVEL": {
+      "nombre": "Abigail Barrionuevo Alanoca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SZYCCL": {
+      "nombre": "Luz Sara Salle Ali",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-59K796": {
+      "nombre": "Nicole Yanine Chiri Calsina",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-LQF632": {
+      "nombre": "Nicolas Pedro Choque Copa",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-T7LEBX": {
+      "nombre": "Abraham Aguilar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-S9QSFS": {
+      "nombre": "Diane Sehila Chiri Calsina",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9ZVXW4": {
+      "nombre": "Leonel Adilson Apaza Huanca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-QY8HCQ": {
+      "nombre": "Rosaly Belen Ochoa Mancilla",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-Z77LT6": {
+      "nombre": "Adriel Rusel",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-RLQ9A3": {
+      "nombre": "Joel Angel Apaza",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-RQYX7M": {
+      "nombre": "Jardiel Paredes",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-9NMYTC": {
+      "nombre": "Jhoel Aguilar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-KRN24P": {
+      "nombre": "Valentina Huanca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SJ7YPC": {
+      "nombre": "Agar Kiara Apaza",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-WRG9Z4": {
+      "nombre": "Brisseth Sedenka Paredes",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7YV4ZA": {
+      "nombre": "Sara Balboa",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2H5XG3": {
+      "nombre": "Dante Quispe Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YTV7WN": {
+      "nombre": "Carlos Santiago Yujra",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3FPQK5": {
+      "nombre": "Andy Yujra Coyo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SF7FHA": {
+      "nombre": "Brian Dan Limachi Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-NC2UEU": {
+      "nombre": "Madelein Lesly Huarachi Huaranca",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6MU34Y": {
+      "nombre": "Sheyla Mayrim Maydana",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-3ACYRN": {
+      "nombre": "Yeni Sarzuri Tipo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-JTAZWD": {
+      "nombre": "Yandira Yujra Coyo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZQDYS3": {
+      "nombre": "Jhoel Oliver Soncco Gonzales",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-Q3CWVX": {
+      "nombre": "Bismar Victor Ribas Atuquipa",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-HJBP6F": {
+      "nombre": "Alan Isaac Chávez Roque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-F2JL8L": {
+      "nombre": "Vidal Sonjhumar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-X2KXZY": {
+      "nombre": "Cristal Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-27UH4Q": {
+      "nombre": "Nicol Paco",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-37PN7V": {
+      "nombre": "Sayuri",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-SVXBRT": {
+      "nombre": "Sarai",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-YB7WH2": {
+      "nombre": "Sam Ticona",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-L62Y8B": {
+      "nombre": "Ian Sangalli",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-XE6X23": {
+      "nombre": "Jhosmar",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-AB7EUG": {
+      "nombre": "Andy",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-284TV3": {
+      "nombre": "Anabel Condoset Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8N65NL": {
+      "nombre": "Silvia Liz Nina Perez",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-CQXJWZ": {
+      "nombre": "Jhakelin Rayos Colque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-ZNNK7N": {
+      "nombre": "Nicole Aovero Antelo",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-KEDQJF": {
+      "nombre": "Flor Esmirna Perez Pañuni",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-BLJEVT": {
+      "nombre": "Neysi Mayerli Cabezas Cordero",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-383EDU": {
+      "nombre": "Calef Damir Perez Colque",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6RKQ2N": {
+      "nombre": "Mateo Sebastian Perez Mamani",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-39UR3W": {
+      "nombre": "Ester Magaly Ibañez Gomez",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-VKNEE7": {
+      "nombre": "Aracely Angeles Katherine Larico Cruz",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7LLRMS": {
+      "nombre": "Mazziel Yazid Rodríguez Condori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-DTPLTN": {
+      "nombre": "Asbel Cuaquira Zamorano",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-B83R9P": {
+      "nombre": "Cristian Huanca Cori",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-7GD965": {
+      "nombre": "Juan Otoniel Cuaquira Zamorano",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-2H9CZN": {
+      "nombre": "Juan Carlos Cuaquira Bejarano",
+      "cargo": "",
+      "region": "Región 8",
+      "fecha_emision": "2026-06-16",
+      "valido": true
     }
   },
-  "actualizado": "2026-06-15"
+  "actualizado": "2026-06-16"
 }
