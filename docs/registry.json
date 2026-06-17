@@ -2337,6 +2337,90 @@
       "region": "Región 8",
       "fecha_emision": "2026-06-16",
       "valido": true
+    },
+    "CONQ-2026-6EEVP2": {
+      "nombre": "Antonio Nina Gutierrez",
+      "cargo": "Consejero",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-VFTKXB": {
+      "nombre": "Belinda Mikaela Choque Quispe",
+      "cargo": "Directora",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8AHRN7": {
+      "nombre": "Cindy Jhoselin Quispe Guarachi",
+      "cargo": "Consejera",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-RTRAHY": {
+      "nombre": "Vladimir Alexander Apaza Limachi",
+      "cargo": "Consejero",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-X7TCKM": {
+      "nombre": "Maciel Sarahi Callisaya",
+      "cargo": "Distrital",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-6DG96T": {
+      "nombre": "Eddy Adalid Quispe",
+      "cargo": "Distrital",
+      "region": "Región 7",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-B9C5WB": {
+      "nombre": "Deyanira Quispe Huanca",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-54AFJH": {
+      "nombre": "Israel Quispe Huanca",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-NFKHVS": {
+      "nombre": "Marco Antonio Choque Quispe",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-784EGL": {
+      "nombre": "Rosmery Mamani Condori",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-8FBRNW": {
+      "nombre": "Emilio Mamani Yujra",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
+    },
+    "CONQ-2026-T9CRHN": {
+      "nombre": "Jimena Patzi Velarde",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-16",
+      "valido": true
     }
   },
   "actualizado": "2026-06-16"
