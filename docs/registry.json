@@ -2421,7 +2421,1057 @@
       "region": "Región 3",
       "fecha_emision": "2026-06-16",
       "valido": true
+    },
+    "CONQ-2026-2YMDG2": {
+      "nombre": "Glendy Ticona",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-A4ZDRG": {
+      "nombre": "Fernanda Franco",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MLQWNT": {
+      "nombre": "Mireya Aspiazu",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-KZKZSA": {
+      "nombre": "Jaquelin Morales",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-NMQ287": {
+      "nombre": "Alejandro Rodriguez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7TWNCJ": {
+      "nombre": "Fredy Apaza",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-U9UZ6Z": {
+      "nombre": "Zulma Guarachi",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-NRCQ2A": {
+      "nombre": "Mildret Chambi",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-SJ46ZX": {
+      "nombre": "Zoe Damian",
+      "cargo": "",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-LC3QST": {
+      "nombre": "Brenda Quijo Aspiazu",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-CTN638": {
+      "nombre": "Aaron Cristopher Acarapi Morales",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-37HLKZ": {
+      "nombre": "Gabriel Monzon Viscarra",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-L8NV9Y": {
+      "nombre": "Fernanda Escobar Vargas",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-DKJECW": {
+      "nombre": "Emily Rodriguez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-LFBV98": {
+      "nombre": "Santiago Paul Coaquira",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7H3GB2": {
+      "nombre": "Hanna Coaquira",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-HM5CYT": {
+      "nombre": "Keila Tarqui",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-6MVGNJ": {
+      "nombre": "Renata Oliden",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-VQCPYV": {
+      "nombre": "Yurey Rojas Mita",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-FRV9WT": {
+      "nombre": "Stefany Machaca",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BP65EQ": {
+      "nombre": "Abril Ticona",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-VFD22Z": {
+      "nombre": "Maria Fernanda Oliden",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-Q4JQ2M": {
+      "nombre": "Wara Rivas",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BCU442": {
+      "nombre": "Aneth Camia Cespedes",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-DEE5X3": {
+      "nombre": "Luzcamila Jerez Torres",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-HXE7AM": {
+      "nombre": "Katerin Alipaz",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-98QW6S": {
+      "nombre": "Alexia Ochoa",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7ZABXJ": {
+      "nombre": "Dania Condorena",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-9PCVPQ": {
+      "nombre": "Itai Choque",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-FCN8C7": {
+      "nombre": "Jhoselin Aguilera Vega",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7ECSY8": {
+      "nombre": "Adriana Machaca Huaricallo",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-ERLHD6": {
+      "nombre": "Aruihane Mamani Medina",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-67R8YU": {
+      "nombre": "Juan Flores Choque",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-R6GX8T": {
+      "nombre": "Nestor Flores Huanca",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-827M2Q": {
+      "nombre": "Rossi Gabriela Colque",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-ZJEYQ7": {
+      "nombre": "Sergio Alfredo Paredes Sosa",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-ALPJK5": {
+      "nombre": "Celeste Aynoa",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-PTKRXF": {
+      "nombre": "Mia Paredes Quispe",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-3XN26R": {
+      "nombre": "Aaron Flores Choque",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-3MYBV5": {
+      "nombre": "Camila Mariscal Choque",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-77WEY6": {
+      "nombre": "Anahi Mariscal Choque",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-LKSLG5": {
+      "nombre": "Neithan Chávez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AD6MZA": {
+      "nombre": "Diana Chávez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BKACHD": {
+      "nombre": "Allizon Ajllahuanca",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-6QGHWL": {
+      "nombre": "Nicolás Villca",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-XRC3MW": {
+      "nombre": "Allizon Huchani",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-2DQHAQ": {
+      "nombre": "Mateo Alcon",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-SNSCPV": {
+      "nombre": "Limberth Zegarra",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-XX7CFY": {
+      "nombre": "Matias Quispe",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-WQ2MD9": {
+      "nombre": "Yadher Huaqui",
+      "cargo": "Guía",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MP9JEB": {
+      "nombre": "Jossias Huaqui",
+      "cargo": "Guía",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-RCCAGX": {
+      "nombre": "Ademir Uchani",
+      "cargo": "Guía",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-5VCLQH": {
+      "nombre": "Flor Vargas",
+      "cargo": "Guía",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-JWC5GA": {
+      "nombre": "Nicole Espinoza",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-FJW433": {
+      "nombre": "Adrián Castellón",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AMVTPG": {
+      "nombre": "Dalia Calderón",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MGSYVW": {
+      "nombre": "Angela Shadem Callisaya Rada",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-DL7RQM": {
+      "nombre": "Eliana Castañeta",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-FC383L": {
+      "nombre": "Obriam Lopez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-YYRYLV": {
+      "nombre": "Carla Gabriela Calderon Argote",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-FWGFSY": {
+      "nombre": "Jael Danai Barco Condori",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-UQHW65": {
+      "nombre": "Dayana Hinojosa Mamani",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-QAQBUB": {
+      "nombre": "Ricardo Gutierrez Hurtado",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-75JMD5": {
+      "nombre": "Varinia Katunta Illatarco",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-EXBNK3": {
+      "nombre": "Brisa Yuliana Kantuta Gutierrez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MFNEHS": {
+      "nombre": "Levit Daniel Kantuta Illatarco",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BVJ267": {
+      "nombre": "Jhon Matías Kantuta Illatarco",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-GJAWGQ": {
+      "nombre": "Yimmi Eithan Aliaga",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-XDKA5G": {
+      "nombre": "Angela S. Callisaya Rada",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-48ZHEK": {
+      "nombre": "Carlo G. Calderon Argote",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-757FWG": {
+      "nombre": "Carlo Mateo Mercado Mamani",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-4JW79V": {
+      "nombre": "Diego Mercado Mamani",
+      "cargo": "",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-DU6E4R": {
+      "nombre": "Jael Mondaca Huayta",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AZPSGA": {
+      "nombre": "José R. Areanda",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7QH5N5": {
+      "nombre": "Monserrat Huanca Rios",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-26AD6A": {
+      "nombre": "Vexy Aleindra Ramirez Villegas",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-WF9W3M": {
+      "nombre": "Nilka Mondaca Huayta",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-EDQKHB": {
+      "nombre": "Dibi Mondaca H.",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-UGDDU2": {
+      "nombre": "Michelle Chambi Rada",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-WEMHF5": {
+      "nombre": "Aurora Kapajeique Ramos",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-XGBYW4": {
+      "nombre": "Andy Chambi Huarcacho",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-34ZU7T": {
+      "nombre": "Nicol Salgado Ilimuri",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-WCCH4V": {
+      "nombre": "Miguel Salgado Ilimuri",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-UFFU7X": {
+      "nombre": "Gareb Ramos Mamani",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-TACP9C": {
+      "nombre": "Daniel Castañeta Chavez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-T6C4ZL": {
+      "nombre": "Benjamin Castañera Chavez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-VW9T9X": {
+      "nombre": "Orlando Torrez Ramírez",
+      "cargo": "Guía",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-N6ZS9Y": {
+      "nombre": "Esther Valdez Mamani",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-5AV8Q8": {
+      "nombre": "Karen Valdez Mamani",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-EX6ACZ": {
+      "nombre": "Bolivia Macuchapi Mamani",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-NA5CL7": {
+      "nombre": "Samuel Castañera Chavez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-A8PMLD": {
+      "nombre": "Minerva Gonzales Cárdenas",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-M8JZWV": {
+      "nombre": "Susan Barra",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-S383JG": {
+      "nombre": "Valeria Sansuste",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MJV7XW": {
+      "nombre": "Jhoel Mamore",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-V355JQ": {
+      "nombre": "Jesimiel Vallejos",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-EH9RRG": {
+      "nombre": "Tatiana Conde",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-TQ3D8Z": {
+      "nombre": "Deymar Coro",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-6JMYEG": {
+      "nombre": "Danneliz Fernández",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-XFFXA6": {
+      "nombre": "Mishel Pedreros",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-5DJMFS": {
+      "nombre": "Gabriel Sansuste",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-M597US": {
+      "nombre": "Luciana Silva",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-PP4L9T": {
+      "nombre": "Josué Barra",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-L9DS6L": {
+      "nombre": "Abdiel Cabrera",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-8FH7W6": {
+      "nombre": "Fabian Gongora",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-GK7MJY": {
+      "nombre": ". Samuel Sansuste",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AY2R8S": {
+      "nombre": "Daniel Tancara",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-G8MP6B": {
+      "nombre": "Jhonatan Burgoa",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-5UZ6TJ": {
+      "nombre": "Gustavo Coro",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-9MQ9H9": {
+      "nombre": "Taide Churqui",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-TFYP6D": {
+      "nombre": "Milagros Vallejos",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AXLE6B": {
+      "nombre": "Magaly Chambilla",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-TFRRGG": {
+      "nombre": "Roxana Paredes Pari",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-M45V7L": {
+      "nombre": "Amparo Rocio Neme Mercado",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-GE7TX6": {
+      "nombre": "Cyntia Rodríguez Calle Vda de Ticona",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-6KECBY": {
+      "nombre": "Jaime Verlyn Llempen Suarez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-KHVKTP": {
+      "nombre": "Carla Tellez Mariaca",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-RVRATN": {
+      "nombre": "Pamela Raquel Tancara Hurtado",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-G7B7XN": {
+      "nombre": "Brenda Dennise Valdez Baltazar",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-JRH3UU": {
+      "nombre": "Israel Antonio Terrazas Condori",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-LERWC2": {
+      "nombre": "Efrain Chavez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-YUSPWT": {
+      "nombre": "Natalia Katherine Ticona Rodriguez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-GM7FLR": {
+      "nombre": "Valery Rocio Chuquimia Neme",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-M6ZBQK": {
+      "nombre": "Paula Daniela Rada",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-CVA9GJ": {
+      "nombre": "Carlos Arturo Ancasi Valencia",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-UZNTBX": {
+      "nombre": "Jair Gabriel Massi Alanes",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-4VC6CU": {
+      "nombre": "Luciana Arleth Gutierrez Gutierrez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-58TFLQ": {
+      "nombre": "Paola Jhassiel Llempén Tellez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-GVP7XL": {
+      "nombre": "Diana Veronica Ra",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-DPEEUJ": {
+      "nombre": "Emily Torrez Paredes",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-PAVCKR": {
+      "nombre": "Ian Chavez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-SJWNMM": {
+      "nombre": "Thiago Alexis Llempén Tellez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-58V8ZY": {
+      "nombre": "Charo Escobar Arias",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MGT93N": {
+      "nombre": "Kiara Alejandra Ramos Escobar",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-T78HFX": {
+      "nombre": "Sayumi Isabela Salcedo Cachi",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-2EY2QP": {
+      "nombre": "Israel Alaña Quispe",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-VA6S3P": {
+      "nombre": "Sonny Coro Torrez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-AV6TEB": {
+      "nombre": "Neydy M. Hidalgo Quispe",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-7VC9N8": {
+      "nombre": "Pablo Jacob Pomier Huaricallo",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-WFUVU3": {
+      "nombre": "Samara Ashlyn Marquez Lozano",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-YXMV4G": {
+      "nombre": "Vanedi Elizabeth Cruz Valeria",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-5T4MCD": {
+      "nombre": "Anthony Mamani Ramirez",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-HWGNKL": {
+      "nombre": "Josias Israel Cuba Ch.",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-6DAPBU": {
+      "nombre": "Paul Boyan Tintaya",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-JYWCV2": {
+      "nombre": "Mishel Mendez Chavez",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-95XWXM": {
+      "nombre": "Katherin Alavi Surco",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BX6JHJ": {
+      "nombre": "Samir Mamani",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-8798NT": {
+      "nombre": "Silvia Flores",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-BUST2R": {
+      "nombre": "Uriel Aruquipa Tintaya",
+      "cargo": "Consejero",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
+    },
+    "CONQ-2026-MH467H": {
+      "nombre": "Carlos Flores",
+      "cargo": "Capitán",
+      "region": "Región 4",
+      "fecha_emision": "2026-06-23",
+      "valido": true
     }
   },
-  "actualizado": "2026-06-16"
+  "actualizado": "2026-06-23"
 }
