@@ -11,3 +11,7 @@ uploads/
 *.tmp
 __pycache__/
 *.pyc
+
+# Credenciales OAuth de Google Drive: NUNCA subir
+credentials.json
+token.json
