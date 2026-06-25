@@ -4360,7 +4360,525 @@
       "region": "Region 6",
       "fecha_emision": "2026-06-24",
       "valido": true
+    },
+    "CONQ-2026-6STQUB": {
+      "nombre": "Andres Camrgo Espejo",
+      "cargo": "Secretario",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-RULLN4": {
+      "nombre": "Bismark Sanjines Castillo",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-345SGG": {
+      "nombre": "Gustavo Sanjines Castillo",
+      "cargo": "Consejero / Capellán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-6S83GV": {
+      "nombre": "Alejandro Lucana Ticona",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-KXYQQK": {
+      "nombre": "Abigail Lopez Mamani",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-DU6F8R": {
+      "nombre": "Isabela Mamani Pinto",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-UVENPD": {
+      "nombre": "Maya Choque Quispe",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-KKUM5R": {
+      "nombre": "Anali Vargas Condori",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-PG6MML": {
+      "nombre": "Sarahi Sanchez Mayta",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-8AFGF6": {
+      "nombre": "Avlin Torrez Saenz",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-6SJU36": {
+      "nombre": "Enia Choque Morales",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-UVBF9M": {
+      "nombre": "Joanna Castillo Espejo",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-HCNHJN": {
+      "nombre": "Georgina Mamani Pinto",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-4XESCF": {
+      "nombre": "Samanta Castillo Espejo",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-V9LVM3": {
+      "nombre": "Neiza Soca Mamani",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-KFXYDB": {
+      "nombre": "Iver Daniel Pomacusi Cari",
+      "cargo": "Capellán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-EFAA8S": {
+      "nombre": "Abigail Carla Lucana Ticona",
+      "cargo": "Directora",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-F7K2ZR": {
+      "nombre": "Edwin Mayta",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-W75GP4": {
+      "nombre": "Wilma Castillo",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-JTR728": {
+      "nombre": "Yucelia Alvarado",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-WPJ4K5": {
+      "nombre": "Dafne Acarapi",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-YEB9C6": {
+      "nombre": "Marvin Yujra",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-27YJSA": {
+      "nombre": "Luz Cutile",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-ZY2RJW": {
+      "nombre": "Andrea Conde Vargas",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-59NWYH": {
+      "nombre": "Danna Quispe Nates",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-VHHHB3": {
+      "nombre": "Luciana Chavez Condori",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-MYLQZ3": {
+      "nombre": "Dianara Mamani Marquez",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-U6DHTM": {
+      "nombre": "Cielo Laura Catari",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-7T2KX5": {
+      "nombre": "Yuvinka Claros Mercado",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-9URRQR": {
+      "nombre": "Iciar Choque Jimenez",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-DNR2QU": {
+      "nombre": "Jhonatan Callisaya Cruz",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-7CS5L2": {
+      "nombre": "Adrian Quispe Nates",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-XTE7VC": {
+      "nombre": "Patricia Mamani Marquez",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-5WUG2E": {
+      "nombre": "Rosa Yana Chauca",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-9BEAEU": {
+      "nombre": "Mshel Paco Lopez",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-75FWQQ": {
+      "nombre": "Noemi Condori Maldonado",
+      "cargo": "Directora",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-L36KUT": {
+      "nombre": "Shariel Llorenti Miranda",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-RYSLDR": {
+      "nombre": "Milagros Chatco Alcon",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-6XVRGC": {
+      "nombre": "Raphael Mollericona",
+      "cargo": "Tesorero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-LLQV9R": {
+      "nombre": "Ana Paula Durán Mamani",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-8ZR775": {
+      "nombre": "Franci Agar Durán Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-QZJWJP": {
+      "nombre": "Joselin Kapa Onofre",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-27CTZJ": {
+      "nombre": "José Blanco Sarzuri",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-PZV4KN": {
+      "nombre": "Franz Estanis Durán Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-W2ND6V": {
+      "nombre": "Angel Durán Ledezma",
+      "cargo": "Secretario",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-355FWZ": {
+      "nombre": "Janette Onofre Lopez",
+      "cargo": "Directora",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-CH3HJ5": {
+      "nombre": "Efraín Quispe Quispe",
+      "cargo": "Instructor",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-63VF6M": {
+      "nombre": "Gabriel Quispe Choque",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-HQJH4Y": {
+      "nombre": "Sebastian Gomez Mendoza",
+      "cargo": "Capellán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-3WRRUT": {
+      "nombre": "Alessandra Paco Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-638ENJ": {
+      "nombre": "Jossias Paco Mamani",
+      "cargo": "Conquistador",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-QYFE3M": {
+      "nombre": "Dorian Ayala Barco",
+      "cargo": "Director",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-STKZAR": {
+      "nombre": "Fresi Mamani Quispe",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-E94GYD": {
+      "nombre": "Jhenny Santo Aruquipa",
+      "cargo": "Director Asociado",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-YVPHKU": {
+      "nombre": "Daniela Santo Aruquipa",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-RAZBU5": {
+      "nombre": "Rosalinda Choque Rojas",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-SZ4LYZ": {
+      "nombre": "Kevin Choque Tola",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-C2E9X5": {
+      "nombre": "Jonathan Misael Quiñonez Chino",
+      "cargo": "Tesorero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-FLE4LC": {
+      "nombre": "Lucas Josué Castillo Chino",
+      "cargo": "Secretario",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-G4XV4V": {
+      "nombre": "Adriel Matias Vargas Medinaceli",
+      "cargo": "Secretario",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-RBNZSJ": {
+      "nombre": "Alba Carolina Mena Limachi",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-U9F5KG": {
+      "nombre": "Greys Arely Poma Villanueva",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-FDDA6P": {
+      "nombre": "Angeles Guadalupe Cardenas Flores",
+      "cargo": "Tesorero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-3AN8G8": {
+      "nombre": "Andira Nicol Quiñonez Chino",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-VQRZR2": {
+      "nombre": "Samira Brigitd Montes Valencia",
+      "cargo": "Capitán",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-PZ7V64": {
+      "nombre": "Araceli Melanie Alanoca Carlo",
+      "cargo": "Consejera",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-2LDZ3T": {
+      "nombre": "Yerko Jair Rodriguez Morante",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-ZZECZD": {
+      "nombre": "Fernando Elías Vargas Medinaceli",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-R3WRAJ": {
+      "nombre": "Alejandro Arce Callisaya",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-ZXYF4G": {
+      "nombre": "Héctor Ignacio Mena Limachi",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-BURPLE": {
+      "nombre": "Franco Fidel Mamani Poca",
+      "cargo": "Director",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-RFMRZM": {
+      "nombre": "Rossy Antonieta Limachi Balanza",
+      "cargo": "Secretaria",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-M6DVXW": {
+      "nombre": "Johseline Pairo Marconi",
+      "cargo": "Tesorero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
+    },
+    "CONQ-2026-FV8GFC": {
+      "nombre": "Derek Pairo Marconi",
+      "cargo": "Consejero",
+      "region": "Región 3",
+      "fecha_emision": "2026-06-25",
+      "valido": true
     }
   },
-  "actualizado": "2026-06-24"
+  "actualizado": "2026-06-25"
 }
