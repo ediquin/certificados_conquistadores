@@ -4878,7 +4878,111 @@
       "region": "Región 3",
       "fecha_emision": "2026-06-25",
       "valido": true
+    },
+    "CONQ-2026-HEAC2Q": {
+      "nombre": "Rudit Chino Chico",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-W4BQ9B": {
+      "nombre": "Telma Arrojas Vargas",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-R86G4P": {
+      "nombre": "Caleb Arrojas Vargas",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-9DL2F4": {
+      "nombre": "Emiliana Maldonado Mamani",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-89ER87": {
+      "nombre": "Juan Tapia Franco",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-56Q4XK": {
+      "nombre": "Daniel Nabarro Nay",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-J84TMR": {
+      "nombre": "Lizeth Chimay Cordero",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-SX49Z4": {
+      "nombre": "Elvio Dennys",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-4L5TCX": {
+      "nombre": "Contreras Gutiérrez",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-R5X6DN": {
+      "nombre": "Laura Mamani Arnez",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-8MERE8": {
+      "nombre": "Javier Fernández Lima",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-8SSCLN": {
+      "nombre": "Alba Mikaela Vaca Saravia",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
+    },
+    "CONQ-2026-CE2YTW": {
+      "nombre": "Arnold Mamani Quenevo",
+      "cargo": "",
+      "region": "Region 10",
+      "curso": "Curso de Entrenamiento Básico de Directivas",
+      "fecha_emision": "2026-09-08",
+      "valido": true
     }
   },
-  "actualizado": "2026-06-25"
+  "actualizado": "2026-09-08"
 }
