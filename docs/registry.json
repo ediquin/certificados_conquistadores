@@ -5122,7 +5122,287 @@
       "curso": "Curso de GMM y GMMA",
       "fecha_emision": "2026-10-15",
       "valido": true
+    },
+    "CONQ-2026-86MJ7Z": {
+      "nombre": "Andrés Condori Conde",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 8"
+    },
+    "CONQ-2026-F8F6CZ": {
+      "nombre": "Danner Abdiel Mena Quispe",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-RJ62JB": {
+      "nombre": "Dora Lindaura Cruz Callejas",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-34V7PQ": {
+      "nombre": "Eliana Castañeta Palli",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 4"
+    },
+    "CONQ-2026-JBTDMD": {
+      "nombre": "Fernando Jeyson Ortiz Zuñiga",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 2"
+    },
+    "CONQ-2026-ZW96PQ": {
+      "nombre": "Jhon Hendrick Arias Apaza",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 8"
+    },
+    "CONQ-2026-CFL3W4": {
+      "nombre": "Maciel Sarahi Callisaya Morales",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 7"
+    },
+    "CONQ-2026-FWUA3T": {
+      "nombre": "Marcelo Márquez Huchani",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-BXPJR2": {
+      "nombre": "Mary Luz Mayta Mamani",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 2"
+    },
+    "CONQ-2026-JQSUBP": {
+      "nombre": "Noemi Chambi Mayta",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 4"
+    },
+    "CONQ-2026-6KK562": {
+      "nombre": "Rene Simeon Chino Espinoza",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-YMTZAW": {
+      "nombre": "Ronald Isidro Bautista",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 1"
+    },
+    "CONQ-2026-RF3ZPW": {
+      "nombre": "Victor Hugo Carballo Mamani",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-SWWHRT": {
+      "nombre": "Yoselin Alvarado Roque",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-R868KC": {
+      "nombre": "Abel Beimar Troche Calle",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-78J9ZJ": {
+      "nombre": "Angel Durán Ledezma",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 3"
+    },
+    "CONQ-2026-U6GPNW": {
+      "nombre": "Bella Rosa Chambi Barba",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-P79EJL": {
+      "nombre": "Danna Moya Cameo",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-5V6EL8": {
+      "nombre": "David Aaron Apaza Mayta",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-6TNED9": {
+      "nombre": "Edilson Laura Mercado",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-5DS2W7": {
+      "nombre": "Joel Herlan Paucara Illanes",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 1"
+    },
+    "CONQ-2026-MEQRUB": {
+      "nombre": "Joselin Kapa Onofre",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 3"
+    },
+    "CONQ-2026-D8U7A9": {
+      "nombre": "Luz Raquel Mamani Cruz",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-6HD6CM": {
+      "nombre": "Oscar Alex Isidro Bautista",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 1"
+    },
+    "CONQ-2026-JPK9NU": {
+      "nombre": "Paul Cleto Araujo Espeza",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-LBEM8B": {
+      "nombre": "Telma Arrojas Vargas",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 10"
+    },
+    "CONQ-2026-GFRJMH": {
+      "nombre": "Wilmer Chino Quispe",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 7"
+    },
+    "CONQ-2026-MQ2LWQ": {
+      "nombre": "Yudith Sarah Calle Rodriguez",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 2"
+    },
+    "CONQ-2026-QFFA2K": {
+      "nombre": "Alex Rosinaldo Quispe Pacsi",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 5"
+    },
+    "CONQ-2026-GFCM3E": {
+      "nombre": "Brisa Araceli Condori Mamani",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-AZYLKC": {
+      "nombre": "Caleb Arrojas Vargas",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 10"
+    },
+    "CONQ-2026-3LVS6S": {
+      "nombre": "Charo Escobar Arias",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 4"
+    },
+    "CONQ-2026-9QDGFN": {
+      "nombre": "Gabriela Guarachi Mamani",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 6"
+    },
+    "CONQ-2026-P3FS5V": {
+      "nombre": "Omar Daniel Isidro Bautista",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 1"
+    },
+    "CONQ-2026-XABP9L": {
+      "nombre": "Rebeca Cujpi Espinal",
+      "cargo": "",
+      "curso": "Curso de Entrenamiento Avanzado de Directivas",
+      "fecha_emision": "2026-11-03",
+      "valido": true,
+      "region": "Región 2"
     }
   },
-  "actualizado": "2026-10-15"
+  "actualizado": "2026-11-03"
 }
